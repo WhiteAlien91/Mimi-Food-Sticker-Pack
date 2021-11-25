@@ -10,19 +10,13 @@ import Messages
 
 class MiMiFoodStickerBrowserViewController: MSStickerBrowserViewController {
     
-    let sticker = Sticker.getStickerNames()
+    let sticker = Sticker.getStickers()
     
     var stickers = [MSSticker]()
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        
-        if #available(iOSApplicationExtension 13.0, *) {
-            stickerBrowserView.backgroundColor = .dynamicColor
-        } else {
-            stickerBrowserView.backgroundColor = #colorLiteral(red: 0.9411764706, green: 0.8705882353, blue: 0.8470588235, alpha: 1)
-        }
-        
+        stickerBrowserView.backgroundColor = .dynamicColor
         loadStickers()
     }
     
@@ -35,7 +29,6 @@ class MiMiFoodStickerBrowserViewController: MSStickerBrowserViewController {
 }
 
 extension MiMiFoodStickerBrowserViewController {
-    
     override func numberOfStickers(in stickerBrowserView: MSStickerBrowserView) -> Int {
         return stickers.count
     }
@@ -46,8 +39,6 @@ extension MiMiFoodStickerBrowserViewController {
 }
 
 extension UIColor {
-    
-    @available(iOSApplicationExtension 13.0, *)
     static let dynamicColor = UIColor { (traitCollection: UITraitCollection) -> UIColor in
         if traitCollection.userInterfaceStyle == .light {
             return #colorLiteral(red: 0.9411764706, green: 0.8705882353, blue: 0.8470588235, alpha: 1)

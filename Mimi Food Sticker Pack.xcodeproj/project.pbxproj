@@ -7,25 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		603E370B26755BD3006151A7 /* Stick 8.png in Resources */ = {isa = PBXBuildFile; fileRef = 603E36FD26755BD2006151A7 /* Stick 8.png */; };
-		603E370C26755BD3006151A7 /* Stick 12.png in Resources */ = {isa = PBXBuildFile; fileRef = 603E36FE26755BD2006151A7 /* Stick 12.png */; };
-		603E370D26755BD3006151A7 /* Stick 2.png in Resources */ = {isa = PBXBuildFile; fileRef = 603E36FF26755BD2006151A7 /* Stick 2.png */; };
-		603E370E26755BD3006151A7 /* Stick 5.png in Resources */ = {isa = PBXBuildFile; fileRef = 603E370026755BD2006151A7 /* Stick 5.png */; };
-		603E371026755BD3006151A7 /* Stick 11.png in Resources */ = {isa = PBXBuildFile; fileRef = 603E370226755BD2006151A7 /* Stick 11.png */; };
-		603E371126755BD3006151A7 /* Stick 7.png in Resources */ = {isa = PBXBuildFile; fileRef = 603E370326755BD2006151A7 /* Stick 7.png */; };
-		603E371226755BD3006151A7 /* Stick 4.png in Resources */ = {isa = PBXBuildFile; fileRef = 603E370426755BD2006151A7 /* Stick 4.png */; };
-		603E371326755BD3006151A7 /* Stick 9.png in Resources */ = {isa = PBXBuildFile; fileRef = 603E370526755BD2006151A7 /* Stick 9.png */; };
-		603E371526755BD3006151A7 /* Stick 3.png in Resources */ = {isa = PBXBuildFile; fileRef = 603E370726755BD2006151A7 /* Stick 3.png */; };
-		603E371626755BD3006151A7 /* Stick 1.png in Resources */ = {isa = PBXBuildFile; fileRef = 603E370826755BD3006151A7 /* Stick 1.png */; };
-		603E371726755BD3006151A7 /* Stick 6.png in Resources */ = {isa = PBXBuildFile; fileRef = 603E370926755BD3006151A7 /* Stick 6.png */; };
-		604CD00A270386DE008DE5D1 /* Stick 16.png in Resources */ = {isa = PBXBuildFile; fileRef = 604CD008270386DE008DE5D1 /* Stick 16.png */; };
-		604CD00B270386DE008DE5D1 /* Stick 17.png in Resources */ = {isa = PBXBuildFile; fileRef = 604CD009270386DE008DE5D1 /* Stick 17.png */; };
 		607AC4AC2704CA4C0037538D /* DataManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 607AC4AB2704CA4C0037538D /* DataManager.swift */; };
 		607AC4AF2704CC260037538D /* Sticker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 607AC4AE2704CC260037538D /* Sticker.swift */; };
-		60A4674E26B6A8EF00F85D54 /* Stick 14.png in Resources */ = {isa = PBXBuildFile; fileRef = 60A4674A26B6A8EF00F85D54 /* Stick 14.png */; };
-		60A4674F26B6A8EF00F85D54 /* Stick 10.png in Resources */ = {isa = PBXBuildFile; fileRef = 60A4674B26B6A8EF00F85D54 /* Stick 10.png */; };
-		60A4675026B6A8EF00F85D54 /* Stick 13.png in Resources */ = {isa = PBXBuildFile; fileRef = 60A4674C26B6A8EF00F85D54 /* Stick 13.png */; };
-		60A4675126B6A8EF00F85D54 /* Stick 15.png in Resources */ = {isa = PBXBuildFile; fileRef = 60A4674D26B6A8EF00F85D54 /* Stick 15.png */; };
 		60A6E88C26506A1A009E78DB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 60A6E88B26506A1A009E78DB /* Assets.xcassets */; };
 		60A6E89326506A1A009E78DB /* Mimi Food Sticker Pack MessagesExtension.appex in Embed App Extensions */ = {isa = PBXBuildFile; fileRef = 60A6E89226506A1A009E78DB /* Mimi Food Sticker Pack MessagesExtension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
 		60A6E89826506A1A009E78DB /* Messages.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 60A6E89726506A1A009E78DB /* Messages.framework */; };
@@ -33,6 +16,25 @@
 		60A6E89E26506A1A009E78DB /* MainInterface.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 60A6E89C26506A1A009E78DB /* MainInterface.storyboard */; };
 		60A6E8A026506A1B009E78DB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 60A6E89F26506A1B009E78DB /* Assets.xcassets */; };
 		60A6E8AC26506A88009E78DB /* MiMiFoodStickerBrowserViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60A6E8AB26506A88009E78DB /* MiMiFoodStickerBrowserViewController.swift */; };
+		60EAF862275021F200D7C841 /* 19.png in Resources */ = {isa = PBXBuildFile; fileRef = 60EAF84F275021EF00D7C841 /* 19.png */; };
+		60EAF863275021F200D7C841 /* 7.png in Resources */ = {isa = PBXBuildFile; fileRef = 60EAF850275021EF00D7C841 /* 7.png */; };
+		60EAF864275021F200D7C841 /* 14.png in Resources */ = {isa = PBXBuildFile; fileRef = 60EAF851275021EF00D7C841 /* 14.png */; };
+		60EAF865275021F200D7C841 /* 16.png in Resources */ = {isa = PBXBuildFile; fileRef = 60EAF852275021EF00D7C841 /* 16.png */; };
+		60EAF866275021F200D7C841 /* 2.png in Resources */ = {isa = PBXBuildFile; fileRef = 60EAF853275021F000D7C841 /* 2.png */; };
+		60EAF867275021F200D7C841 /* 9.png in Resources */ = {isa = PBXBuildFile; fileRef = 60EAF854275021F000D7C841 /* 9.png */; };
+		60EAF868275021F200D7C841 /* 6.png in Resources */ = {isa = PBXBuildFile; fileRef = 60EAF855275021F000D7C841 /* 6.png */; };
+		60EAF869275021F200D7C841 /* 18.png in Resources */ = {isa = PBXBuildFile; fileRef = 60EAF856275021F000D7C841 /* 18.png */; };
+		60EAF86A275021F200D7C841 /* 1.png in Resources */ = {isa = PBXBuildFile; fileRef = 60EAF857275021F000D7C841 /* 1.png */; };
+		60EAF86B275021F200D7C841 /* 8.png in Resources */ = {isa = PBXBuildFile; fileRef = 60EAF858275021F000D7C841 /* 8.png */; };
+		60EAF86C275021F200D7C841 /* 20.png in Resources */ = {isa = PBXBuildFile; fileRef = 60EAF859275021F000D7C841 /* 20.png */; };
+		60EAF86D275021F200D7C841 /* 5.png in Resources */ = {isa = PBXBuildFile; fileRef = 60EAF85A275021F100D7C841 /* 5.png */; };
+		60EAF86E275021F200D7C841 /* 4.png in Resources */ = {isa = PBXBuildFile; fileRef = 60EAF85B275021F100D7C841 /* 4.png */; };
+		60EAF86F275021F200D7C841 /* 12.png in Resources */ = {isa = PBXBuildFile; fileRef = 60EAF85C275021F100D7C841 /* 12.png */; };
+		60EAF870275021F200D7C841 /* 3.png in Resources */ = {isa = PBXBuildFile; fileRef = 60EAF85D275021F100D7C841 /* 3.png */; };
+		60EAF871275021F200D7C841 /* 10.png in Resources */ = {isa = PBXBuildFile; fileRef = 60EAF85E275021F100D7C841 /* 10.png */; };
+		60EAF872275021F200D7C841 /* 11.png in Resources */ = {isa = PBXBuildFile; fileRef = 60EAF85F275021F100D7C841 /* 11.png */; };
+		60EAF873275021F200D7C841 /* 15.png in Resources */ = {isa = PBXBuildFile; fileRef = 60EAF860275021F200D7C841 /* 15.png */; };
+		60EAF874275021F200D7C841 /* 17.png in Resources */ = {isa = PBXBuildFile; fileRef = 60EAF861275021F200D7C841 /* 17.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -60,25 +62,8 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		603E36FD26755BD2006151A7 /* Stick 8.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Stick 8.png"; sourceTree = "<group>"; };
-		603E36FE26755BD2006151A7 /* Stick 12.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Stick 12.png"; sourceTree = "<group>"; };
-		603E36FF26755BD2006151A7 /* Stick 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Stick 2.png"; sourceTree = "<group>"; };
-		603E370026755BD2006151A7 /* Stick 5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Stick 5.png"; sourceTree = "<group>"; };
-		603E370226755BD2006151A7 /* Stick 11.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Stick 11.png"; sourceTree = "<group>"; };
-		603E370326755BD2006151A7 /* Stick 7.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Stick 7.png"; sourceTree = "<group>"; };
-		603E370426755BD2006151A7 /* Stick 4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Stick 4.png"; sourceTree = "<group>"; };
-		603E370526755BD2006151A7 /* Stick 9.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Stick 9.png"; sourceTree = "<group>"; };
-		603E370726755BD2006151A7 /* Stick 3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Stick 3.png"; sourceTree = "<group>"; };
-		603E370826755BD3006151A7 /* Stick 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Stick 1.png"; sourceTree = "<group>"; };
-		603E370926755BD3006151A7 /* Stick 6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Stick 6.png"; sourceTree = "<group>"; };
-		604CD008270386DE008DE5D1 /* Stick 16.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Stick 16.png"; sourceTree = "<group>"; };
-		604CD009270386DE008DE5D1 /* Stick 17.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Stick 17.png"; sourceTree = "<group>"; };
 		607AC4AB2704CA4C0037538D /* DataManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataManager.swift; sourceTree = "<group>"; };
 		607AC4AE2704CC260037538D /* Sticker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sticker.swift; sourceTree = "<group>"; };
-		60A4674A26B6A8EF00F85D54 /* Stick 14.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Stick 14.png"; sourceTree = "<group>"; };
-		60A4674B26B6A8EF00F85D54 /* Stick 10.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Stick 10.png"; sourceTree = "<group>"; };
-		60A4674C26B6A8EF00F85D54 /* Stick 13.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Stick 13.png"; sourceTree = "<group>"; };
-		60A4674D26B6A8EF00F85D54 /* Stick 15.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Stick 15.png"; sourceTree = "<group>"; };
 		60A6E88826506A18009E78DB /* Mimi Food Sticker Pack.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Mimi Food Sticker Pack.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		60A6E88B26506A1A009E78DB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		60A6E88D26506A1A009E78DB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -89,6 +74,25 @@
 		60A6E89F26506A1B009E78DB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		60A6E8A126506A1B009E78DB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		60A6E8AB26506A88009E78DB /* MiMiFoodStickerBrowserViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MiMiFoodStickerBrowserViewController.swift; sourceTree = "<group>"; };
+		60EAF84F275021EF00D7C841 /* 19.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 19.png; sourceTree = "<group>"; };
+		60EAF850275021EF00D7C841 /* 7.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 7.png; sourceTree = "<group>"; };
+		60EAF851275021EF00D7C841 /* 14.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 14.png; sourceTree = "<group>"; };
+		60EAF852275021EF00D7C841 /* 16.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 16.png; sourceTree = "<group>"; };
+		60EAF853275021F000D7C841 /* 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 2.png; sourceTree = "<group>"; };
+		60EAF854275021F000D7C841 /* 9.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 9.png; sourceTree = "<group>"; };
+		60EAF855275021F000D7C841 /* 6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 6.png; sourceTree = "<group>"; };
+		60EAF856275021F000D7C841 /* 18.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 18.png; sourceTree = "<group>"; };
+		60EAF857275021F000D7C841 /* 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1.png; sourceTree = "<group>"; };
+		60EAF858275021F000D7C841 /* 8.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 8.png; sourceTree = "<group>"; };
+		60EAF859275021F000D7C841 /* 20.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 20.png; sourceTree = "<group>"; };
+		60EAF85A275021F100D7C841 /* 5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 5.png; sourceTree = "<group>"; };
+		60EAF85B275021F100D7C841 /* 4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 4.png; sourceTree = "<group>"; };
+		60EAF85C275021F100D7C841 /* 12.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 12.png; sourceTree = "<group>"; };
+		60EAF85D275021F100D7C841 /* 3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 3.png; sourceTree = "<group>"; };
+		60EAF85E275021F100D7C841 /* 10.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 10.png; sourceTree = "<group>"; };
+		60EAF85F275021F100D7C841 /* 11.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 11.png; sourceTree = "<group>"; };
+		60EAF860275021F200D7C841 /* 15.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 15.png; sourceTree = "<group>"; };
+		60EAF861275021F200D7C841 /* 17.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 17.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -205,23 +209,25 @@
 		60A6E8AD26506B7C009E78DB /* Stickers */ = {
 			isa = PBXGroup;
 			children = (
-				603E370826755BD3006151A7 /* Stick 1.png */,
-				603E36FF26755BD2006151A7 /* Stick 2.png */,
-				603E370726755BD2006151A7 /* Stick 3.png */,
-				603E370426755BD2006151A7 /* Stick 4.png */,
-				603E370026755BD2006151A7 /* Stick 5.png */,
-				603E370926755BD3006151A7 /* Stick 6.png */,
-				603E370326755BD2006151A7 /* Stick 7.png */,
-				603E36FD26755BD2006151A7 /* Stick 8.png */,
-				603E370526755BD2006151A7 /* Stick 9.png */,
-				603E370226755BD2006151A7 /* Stick 11.png */,
-				603E36FE26755BD2006151A7 /* Stick 12.png */,
-				60A4674B26B6A8EF00F85D54 /* Stick 10.png */,
-				60A4674C26B6A8EF00F85D54 /* Stick 13.png */,
-				60A4674A26B6A8EF00F85D54 /* Stick 14.png */,
-				60A4674D26B6A8EF00F85D54 /* Stick 15.png */,
-				604CD008270386DE008DE5D1 /* Stick 16.png */,
-				604CD009270386DE008DE5D1 /* Stick 17.png */,
+				60EAF857275021F000D7C841 /* 1.png */,
+				60EAF853275021F000D7C841 /* 2.png */,
+				60EAF85D275021F100D7C841 /* 3.png */,
+				60EAF85B275021F100D7C841 /* 4.png */,
+				60EAF85A275021F100D7C841 /* 5.png */,
+				60EAF855275021F000D7C841 /* 6.png */,
+				60EAF850275021EF00D7C841 /* 7.png */,
+				60EAF858275021F000D7C841 /* 8.png */,
+				60EAF854275021F000D7C841 /* 9.png */,
+				60EAF85E275021F100D7C841 /* 10.png */,
+				60EAF85F275021F100D7C841 /* 11.png */,
+				60EAF85C275021F100D7C841 /* 12.png */,
+				60EAF851275021EF00D7C841 /* 14.png */,
+				60EAF860275021F200D7C841 /* 15.png */,
+				60EAF852275021EF00D7C841 /* 16.png */,
+				60EAF861275021F200D7C841 /* 17.png */,
+				60EAF856275021F000D7C841 /* 18.png */,
+				60EAF84F275021EF00D7C841 /* 19.png */,
+				60EAF859275021F000D7C841 /* 20.png */,
 			);
 			path = Stickers;
 			sourceTree = "<group>";
@@ -270,7 +276,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 1250;
-				LastUpgradeCheck = 1300;
+				LastUpgradeCheck = 1310;
 				TargetAttributes = {
 					60A6E88726506A18009E78DB = {
 						CreatedOnToolsVersion = 12.5;
@@ -312,25 +318,27 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				604CD00B270386DE008DE5D1 /* Stick 17.png in Resources */,
-				603E371226755BD3006151A7 /* Stick 4.png in Resources */,
-				60A4675026B6A8EF00F85D54 /* Stick 13.png in Resources */,
-				603E370D26755BD3006151A7 /* Stick 2.png in Resources */,
-				603E371726755BD3006151A7 /* Stick 6.png in Resources */,
-				603E370B26755BD3006151A7 /* Stick 8.png in Resources */,
-				603E370E26755BD3006151A7 /* Stick 5.png in Resources */,
-				604CD00A270386DE008DE5D1 /* Stick 16.png in Resources */,
+				60EAF86C275021F200D7C841 /* 20.png in Resources */,
+				60EAF874275021F200D7C841 /* 17.png in Resources */,
+				60EAF86B275021F200D7C841 /* 8.png in Resources */,
+				60EAF86A275021F200D7C841 /* 1.png in Resources */,
+				60EAF870275021F200D7C841 /* 3.png in Resources */,
+				60EAF86E275021F200D7C841 /* 4.png in Resources */,
+				60EAF869275021F200D7C841 /* 18.png in Resources */,
+				60EAF864275021F200D7C841 /* 14.png in Resources */,
+				60EAF867275021F200D7C841 /* 9.png in Resources */,
+				60EAF872275021F200D7C841 /* 11.png in Resources */,
 				60A6E8A026506A1B009E78DB /* Assets.xcassets in Resources */,
-				603E371626755BD3006151A7 /* Stick 1.png in Resources */,
-				603E371126755BD3006151A7 /* Stick 7.png in Resources */,
+				60EAF868275021F200D7C841 /* 6.png in Resources */,
+				60EAF866275021F200D7C841 /* 2.png in Resources */,
+				60EAF865275021F200D7C841 /* 16.png in Resources */,
 				60A6E89E26506A1A009E78DB /* MainInterface.storyboard in Resources */,
-				60A4674F26B6A8EF00F85D54 /* Stick 10.png in Resources */,
-				603E371026755BD3006151A7 /* Stick 11.png in Resources */,
-				603E371326755BD3006151A7 /* Stick 9.png in Resources */,
-				603E371526755BD3006151A7 /* Stick 3.png in Resources */,
-				60A4674E26B6A8EF00F85D54 /* Stick 14.png in Resources */,
-				603E370C26755BD3006151A7 /* Stick 12.png in Resources */,
-				60A4675126B6A8EF00F85D54 /* Stick 15.png in Resources */,
+				60EAF86F275021F200D7C841 /* 12.png in Resources */,
+				60EAF873275021F200D7C841 /* 15.png in Resources */,
+				60EAF871275021F200D7C841 /* 10.png in Resources */,
+				60EAF86D275021F200D7C841 /* 5.png in Resources */,
+				60EAF862275021F200D7C841 /* 19.png in Resources */,
+				60EAF863275021F200D7C841 /* 7.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -422,13 +430,14 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = iphoneos;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -478,13 +487,14 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = iphoneos;
 				SWIFT_COMPILATION_MODE = wholemodule;
 				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				TARGETED_DEVICE_FAMILY = 1;
 				VALIDATE_PRODUCT = YES;
 			};
 			name = Release;
@@ -494,16 +504,16 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 1;
+				CURRENT_PROJECT_VERSION = 2;
 				DEVELOPMENT_TEAM = S3448RJL2F;
 				INFOPLIST_FILE = "$(SRCROOT)/Mimi Food Sticker Pack MessagesExtension/App/Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@executable_path/../../Frameworks",
 				);
-				MARKETING_VERSION = 1.2.1;
+				MARKETING_VERSION = 1.3;
 				PRODUCT_BUNDLE_IDENTIFIER = com.foxStudio.MimiFoodStickerPack1.MessagesExtension;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
@@ -518,16 +528,16 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 1;
+				CURRENT_PROJECT_VERSION = 2;
 				DEVELOPMENT_TEAM = S3448RJL2F;
 				INFOPLIST_FILE = "$(SRCROOT)/Mimi Food Sticker Pack MessagesExtension/App/Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@executable_path/../../Frameworks",
 				);
-				MARKETING_VERSION = 1.2.1;
+				MARKETING_VERSION = 1.3;
 				PRODUCT_BUNDLE_IDENTIFIER = com.foxStudio.MimiFoodStickerPack1.MessagesExtension;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
@@ -544,11 +554,11 @@
 				ARCHS = "$(ARCHS_STANDARD)";
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 1;
+				CURRENT_PROJECT_VERSION = 2;
 				DEVELOPMENT_TEAM = S3448RJL2F;
 				INFOPLIST_FILE = "$(SRCROOT)/Mimi Food Sticker Pack/Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
-				MARKETING_VERSION = 1.2.1;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
+				MARKETING_VERSION = 1.3;
 				PRODUCT_BUNDLE_IDENTIFIER = com.foxStudio.MimiFoodStickerPack1;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
@@ -563,11 +573,11 @@
 				ARCHS = "$(ARCHS_STANDARD)";
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 1;
+				CURRENT_PROJECT_VERSION = 2;
 				DEVELOPMENT_TEAM = S3448RJL2F;
 				INFOPLIST_FILE = "$(SRCROOT)/Mimi Food Sticker Pack/Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
-				MARKETING_VERSION = 1.2.1;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
+				MARKETING_VERSION = 1.3;
 				PRODUCT_BUNDLE_IDENTIFIER = com.foxStudio.MimiFoodStickerPack1;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;

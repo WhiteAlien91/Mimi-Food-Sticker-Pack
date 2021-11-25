@@ -8,14 +8,11 @@
 import Foundation
 
 struct Sticker {
-    
     let stickerNames: [String]
     
-    static func getStickerNames() -> Sticker {
-        let stickerNames = DataManager.shared.stickerNames
+    static func getStickers() -> Sticker {
+        let stickerNames = DataManager.shared.createStickers()
         let stickers = Sticker(stickerNames: stickerNames)
-        
         return stickers
     }
-    
 }
