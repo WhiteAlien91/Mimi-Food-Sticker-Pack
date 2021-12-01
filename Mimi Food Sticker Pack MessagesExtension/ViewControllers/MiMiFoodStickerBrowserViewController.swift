@@ -1,6 +1,6 @@
 //
 //  MiMiFoodStickerBrowserViewController.swift
-//  Mi-miFood MessagesExtension
+//  Mimi Food Sticker Pack MessagesExtension
 //
 //  Created by Dmitry Sechkarenko on 14.05.2021.
 //
@@ -16,7 +16,11 @@ class MiMiFoodStickerBrowserViewController: MSStickerBrowserViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        stickerBrowserView.backgroundColor = .dynamicColor
+        if #available(iOSApplicationExtension 13.0, *) {
+            stickerBrowserView.backgroundColor = .dynamicColor
+        } else {
+            stickerBrowserView.backgroundColor = #colorLiteral(red: 0.9411764706, green: 0.8705882353, blue: 0.8470588235, alpha: 1)
+        }
         loadStickers()
     }
     
@@ -39,6 +43,7 @@ extension MiMiFoodStickerBrowserViewController {
 }
 
 extension UIColor {
+    @available(iOSApplicationExtension 13.0, *)
     static let dynamicColor = UIColor { (traitCollection: UITraitCollection) -> UIColor in
         if traitCollection.userInterfaceStyle == .light {
             return #colorLiteral(red: 0.9411764706, green: 0.8705882353, blue: 0.8470588235, alpha: 1)

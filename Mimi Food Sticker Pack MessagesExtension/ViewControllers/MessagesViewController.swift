@@ -1,6 +1,6 @@
 //
 //  MessagesViewController.swift
-//  Mi-miFood MessagesExtension
+//  Mimi Food Sticker Pack MessagesExtension
 //
 //  Created by Dmitry Sechkarenko on 12.05.2021.
 //
