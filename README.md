@@ -3,6 +3,7 @@ Mimi Food, Sticker for iMessages.
 
 # Download
 This app is in [AppStore iMessages](https://apps.apple.com/ru/app/mimi-food-sticker-pack-1/id1571780783)
+(Temporarily unavailable)
 
 # Feature 
 Implementations Dark Mode
